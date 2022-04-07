@@ -11,4 +11,10 @@ a = (1, 2)
 
 print(type(a))
 
+# dictionary
+
+a={"shivam":2}
+
+print(type(a))
+
 
